@@ -22,5 +22,12 @@ Menu and data output.
 
 ![inventory SGrab](https://user-images.githubusercontent.com/98525884/160284909-d2d8ef89-d0f7-475b-858e-1b171e9f64da.png)
 
+## Author
+
+Nadia Schmidtke [Email me](https://nadia-jsch.github.io/Nadia-Schmidtke-Webpages/Contact.html)
+
+## License
+
+This project is licensed under the [MIT LICENSE](https://github.com/Nadia-JSch/Shoe-inventory/blob/master/LICENSE).
 
 > Thank you for using the inventory manager :) 
